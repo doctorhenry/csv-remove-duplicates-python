@@ -24,7 +24,6 @@ with open('search_dataset.csv', 'r') as dataset:
     #create a csv file containing the filtered results
     with open('filtered_dataset.csv', 'w', newline='') as write_csv:        
         writer = csv.writer(write_csv, delimiter=',', quotechar='"', quoting = csv.QUOTE_MINIMAL)
-        #writer.writerow(['Title','Author','Source','Year','DOI'])
         for i in range(len(filtered)):
             if filtered[i] != "":
                 writer.writerow(filtered[i])
