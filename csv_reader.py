@@ -1,12 +1,13 @@
 import csv
 
 htitle = []
-dtitle = []
+ntitle = []
 diftitles = []
 
-def checkDuplicates(largerDataset, smallerDataset):
-    for r in largerDataset:
-        if r not in smallerDataset:
+def checkDuplicates(haystackDataset, needleDataset):
+    for r in needleDataset:
+        print("needle: " + r)
+        if r not in haystackDataset:
             thisTitle = [r]
             diftitles.append(thisTitle)
 
@@ -22,28 +23,28 @@ def checkDuplicates(largerDataset, smallerDataset):
 
 # Open the CSV files
 dataset =  open('filtered_dataset.csv', 'r')
-haystack = open('search_dataset.csv', 'r') 
+search = open('search_dataset.csv', 'r') 
 
 # Use csv, read the CSV files and copy them locally
-csv_dataset = csv.reader(dataset,delimiter=',')    
-csv_haystack = csv.reader(haystack,delimiter=',') 
+csv_haystack = csv.reader(dataset,delimiter=',')    
+csv_needle = csv.reader(search,delimiter=',') 
 
 # Loop through the haystack CSV and add titles to list
 for h in csv_haystack:
     htitle.append(h[0])
 
 # Loop through the dataset/needle CSV and add titles to list
-for d in csv_dataset:
-    dtitle.append(d[0])
+for n in csv_needle:
+    ntitle.append(n[0])
 
 #Check which list has a longer length and loop over that one.
-if len(htitle) > len(dtitle):
-    print("htitle has more")
-    checkDuplicates(htitle, dtitle)
+# if len(htitle) > len(dtitle):
+#    print("htitle has more")
+checkDuplicates(htitle, ntitle)
 
-else:
-    print("dtitle has more")
-    checkDuplicates(dtitle, htitle)
+#else:
+#    print("dtitle has more")
+#    checkDuplicates(dtitle, htitle)
 
 
         

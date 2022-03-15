@@ -1,0 +1,59 @@
+Akalin, A., & Sezal, I. (2009). The importance of conceptual and concrete modelling in architectural design
+education. International Journal of Art & Design Education, 28(1), 14–24.
+Beausoleil-Morrison, I. (2019). Learning the fundamentals of building performance simulation through an
+experiential teaching approach. Journal of Building Performance Simulation, 12(3), 308–325. https://
+doi.org/10.1080/19401493.2018.1479773
+Beausoleil-Morrison, I., & Hopfe, C. J. (2016). Teaching building performance simulation: Ever done an
+autopsy?
+
+Bell, R., & Loon, M. (2015). The impact of critical thinking disposition on learning using business simula-
+tions. The International Journal of Management Education, 13(2), 119–127.
+
+Biggs, J., & Biggs, J. B. (2004). Calidad del aprendizaje universitario Narcea ediciones.
+Bleil De Souza, C., & Tucker, S. (2013). Thermal simulation software outputs: What do building designers
+propose?
+Cao, X., Dai, X., & Liu, J. (2016). Building energy-consumption status worldwide and the state-of-the-art
+technologies for zero-energy buildings during the past decade. Energy and Buildings, 128, 198–213.
+https://doi.org/10.1016/j.enbuild.2016.06.089.
+Castro, C. L. G., Sierra, L. M. B., Sánchez, P. M., & Martínez, T. (2009). Estudio de percepción sobre
+metodologías de enseñanza de temas de electrónica en programas diferentes a ingeniería electrónica.
+Revista Educación En Ingeniería, 4(8), 93–101.
+Proyecto RehEnergía Rehabilitación energética de edifcios de viviendas - PDF. (n.d.). Retrieved October
+25, 2019 from https://docplayer.es/8014801-Proyecto-rehenergia-rehabilitacion-energetica-de-edif
+cios-de-viviendas.html.
+Charles, P. P., & Thomas, C. R. (2009). Four approaches to teaching with building performance simulation
+
+tools in undergraduate architecture and engineering education. Journal of Building Performance Simu-
+lation, 2(2), 95–114.
+
+Clarke, J., & Maver, T. (1991). Advanced design tools for energy conscious building design: Development
+and dissemination. Building and Environment, 26(1), 25–34.
+Costanzo, V., Evola, G., Marletta, L., & Nocera, F. (2018). The efectiveness of phase change materials in
+relation to summer thermal comfort in air-conditioned ofce buildings. Paper presented at the building
+simulation (Vol. 11, No. 6, pp. 1145–1161).
+
+de Souza, C. B. (2009). A critical and theoretical analysis of current proposals for integrating building ther-
+mal simulation tools into the building design process. Journal of Building Performance Simulation,
+
+2(4), 283–297. https://doi.org/10.1080/19401490903349601.
+de Souza, C. B., & Tucker, S. (2016). Thermal simulation software outputs: A conceptual data model of
+
+information presentation for building design decision-making. Journal of Building Performance Simu-
+lation, 9(3), 227–254. https://doi.org/10.1080/19401493.2015.1030450.
+
+Denzin, N. K., & Lincoln, Y. S. (2011). The sage handbook of qualitative research. Sage.
+EDUCATE. (2009). Retrieved from https://cort.as/-EURy.
+
+Eisenack, K. (2013). A climate change board game for interdisciplinary communication and education. Sim-
+ulation & Gaming, 44(2–3), 328–348.
+
+Fernandez-Antolin, M., del-Río, J., & Gonzalez-Lezcano, R. (2019a). Infuence of solar refectance and
+renewable energies on residential heating and cooling demand in sustainable architecture: A case study
+in diferent climate zones in Spain considering their urban contexts. Sustainability, 11(23), 6782.
+Fernandez-Antolin, M., del Río, J. M., Costanzo, V., Nocera, F., & Gonzalez-Lezcano, R. (2019b). Passive
+design strategies for residential buildings in diferent spanish climate zones. Sustainability, 11(18),
+4816.
+Fernandez-Antolin, M.-M., del-Río, J.-M., del Ama Gonzalo, F., & Gonzalez-Lezcano, R.-A. (2020). The
+relationship between the use of building performance simulation tools by recent graduate architects
+and the defciencies in architectural education. Energies, 13(5), 1134. https://doi.org/10.3390/en130
+51134.
